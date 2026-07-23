@@ -1,7 +1,28 @@
 aid: avicenna-biosciences
 name: Avicenna Biosciences
-description: Avicenna Biosciences is a company surfaced as a portfolio company of dcvc and added to the
-  API Evangelist network as a stub for enrichment. This profile is a lead awaiting the enrichment pipeline.
+description: 'Avicenna Biosciences, Inc. is a Durham, North Carolina drug development
+  company using machine learning-enhanced medicinal chemistry to accelerate the lead-to-candidate
+  optimization process for small molecule drug development. Founded in 2020 and led
+  by president and CEO Chris Meldrum, the company applies computational screening of
+  candidate molecules for drug-like properties to the "last mile" of small molecule
+  discovery, targeting neurodegenerative disease programs including Rho kinase inhibitors
+  for Parkinson''s disease and ALS. Avicenna raised a seed round led by DCVC Bio and
+  has signed research collaborations with partners such as Molecure S.A. The company
+  publishes no public developer portal, API, or machine-readable interface as of this
+  enrichment pass; it is catalogued here as an AI-for-drug-discovery company profile
+  rather than an API provider.'
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://images.ctfassets.net/5je0qvum28n8/5gAbv4QZiCZIcbSssrG929/bf3447db4edfba83dea17dbd7abcb123/default-share-image.jpg?w=1200&h=630&q=65
 url: https://raw.githubusercontent.com/api-evangelist/avicenna-biosciences/refs/heads/main/apis.yml
 x-type: company
 x-source: vc-portfolio
@@ -11,12 +32,43 @@ x-tier: stub
 x-tier-reason: portfolio-lead
 specificationVersion: '0.20'
 created: '2026-07-17'
-modified: '2026-07-17'
+modified: '2026-07-20'
 tags:
 - Company
+- Biosciences
+- Life Sciences
+- Biotechnology
+- Venture Backed
+- DCVC Portfolio
+- Drug Discovery
+- Machine Learning
+- Medicinal Chemistry
+- Small Molecule
+- Neurodegenerative Disease
+- Artificial Intelligence
 apis: []
+common:
+- type: Website
+  url: https://www.avicenna-bio.com/
+- type: About
+  url: https://www.avicenna-bio.com/approach
+- type: Team
+  url: https://www.avicenna-bio.com/team
+- type: News
+  url: https://www.avicenna-bio.com/news
+- type: LinkedIn
+  url: https://www.linkedin.com/company/avicenna-biosciences
+- type: DomainSecurity
+  url: security/avicenna-biosciences-domain-security.yml
+- type: LLMsTxt
+  url: llms/avicenna-biosciences-llms.txt
 maintainers:
 - FN: Kin Lane
   email: kin@apievangelist.com
 - FN: APIs.json
   email: info@apis.io
+x-enrichment:
+  date: '2026-07-20'
+  status: minimal
+  artifacts_added: 3
+  pass: local-v1
