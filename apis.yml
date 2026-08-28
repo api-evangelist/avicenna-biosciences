@@ -11,6 +11,17 @@ description: 'Avicenna Biosciences, Inc. is a Durham, North Carolina drug develo
   publishes no public developer portal, API, or machine-readable interface as of this
   enrichment pass; it is catalogued here as an AI-for-drug-discovery company profile
   rather than an API provider.'
+deliveryModel:
+  model: unknown
+  open_source: false
+  commercial: false
+  callable_host: false
+  label: Delivery model not determined — needs a product licence on record
+  confidence: low
+  source:
+  - none
+  generated: '2026-08-28'
+  method: derived
 accessModel:
   pricing: unknown
   onboarding: unknown
